@@ -17,10 +17,10 @@ if ('serviceWorker' in navigator) {
 
 const sounds = {
     start: new Howl({
-      src: ['start.webm']
+      src: ['start.mp3']
     }),
     stop: new Howl({
-      src: ['stop.webm']
+      src: ['stop.mp3']
     }),
 }
 
