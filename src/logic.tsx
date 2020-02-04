@@ -59,7 +59,7 @@ export class Ui extends Component<UiProps> {
                         </tbody>
                     </table>
                 </div>
-            </div>;
+            </div>
         </>;
     }
 }
